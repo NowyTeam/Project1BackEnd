@@ -80,7 +80,7 @@ app.post(
 
         const telegramMessage = `Новое сообщение от пользователя:
 😎Имя: ${username}
-🥀Email: ${email}
+💌Email: ${email}
 👨🏻‍💻Сообщение: ${message}`;
 
         bot
